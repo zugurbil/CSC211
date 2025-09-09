@@ -3,7 +3,7 @@ public class LoopExamples {
         // Using a while loop
         int i = 1;
         System.out.println("Using while loop:");
-        while (i <= 5) {
+        while (i <= 99) {
             System.out.println(i);
             i++;
         }
